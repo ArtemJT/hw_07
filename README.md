@@ -1,6 +1,16 @@
 # ДЗ 7. Символы и строки
 
-1. 1. Создать пустой проект в IntelliJ
+
+Пререквизиты:
+
+- Ознакомится с методами класса String
+
+https://docs.oracle.com/en/java/javase/17/docs/api/java.base/java/lang/String.html
+
+- Обратить внимание на методы: toCharArray, charAt, indexOf, intern, contains, startWith, valueOf
+
+
+1. Создать пустой проект в IntelliJ
 
 
 2. Создать метод findSymbolOccurance. Метод принимает в качестве параметров строку и символ. Необходимо вычислить, сколько раз символ встречается в переданной строке и вернуть это числовое значение.
